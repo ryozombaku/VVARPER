@@ -1,0 +1,4 @@
+UnrealGame-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+VVARPER-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+UnrealGame.exe filter=lfs diff=lfs merge=lfs -text
+UnrealGame.pdb filter=lfs diff=lfs merge=lfs -text
